@@ -1,6 +1,17 @@
 
-# .v4p backup files
-*~.xml
+# vvvv gamma cache
+cache/
+_temp/
+GPUCache/
+
+# VVVV archive
+archive/
 
 # Dynamic plugins .dll
 bin/
+
+# TDFolder
+TDTestfolder/
+
+# Utils folder
+_Utils/
