@@ -15,3 +15,13 @@ TDTestfolder/
 
 # Utils folder
 _Utils/
+
+
+# VVVV gamma system files
+vvvv/*.pc
+vvvv/*.pcb
+vvvv/*.props
+vvvv/*.data
+
+# Cursor files
+.cursor/rules/system_local.mdc
